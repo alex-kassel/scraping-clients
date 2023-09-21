@@ -1,0 +1,14 @@
+{
+    "name": "alex-kassel/scraping-clients",
+    "description": "A small collection of scraping-service clients",
+    "license": "proprietary",
+    "require": {
+        "php": "^8.2",
+        "alex-kassel/contracts": "@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "AlexKassel\\ScrapingClients\\": "src/"
+        }
+    }
+}

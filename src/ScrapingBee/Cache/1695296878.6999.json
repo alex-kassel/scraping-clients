@@ -1,0 +1,74 @@
+{
+    "microtime": 1695296878.699856,
+    "datetime": "2023-09-21 13:47:58",
+    "methode": "request",
+    "request": [
+        "curl -X GET",
+        "-D -",
+        "\"https:\/\/app.scrapingbee.com\/api\/v1\/?api_key=RICHA7HD6Y7CFWFD4DPP1O4QCUQU9ELS8IQ19SA2CPBUY9683ZV1TSN56UYSKWZP0ZK62WDYLQMZFHEL&url=https%3A%2F%2Fsuchen.mobile.de%2Ffahrzeuge%2Fsearch.html%3Fdam%3D0%26fr%3D2006%253A%26ft%3DDIESEL%26isSearchRequest%3Dtrue%26ms%3D3500%253B17%253B%253B%253B%26ref%3Dsrp%26refId%3D0c2af832-8106-d0cb-7227-ecdfd134cd24%26s%3DCar%26sb%3Drel%26vc%3DCar&json_response=True&render_js=False&forward_headers=True&return_page_source=True\""
+    ],
+    "response": {
+        "url": "https:\/\/suchen.mobile.de\/fahrzeuge\/search.html?dam=0&fr=2006%3A&ft=DIESEL&isSearchRequest=true&ms=3500%3B17%3B%3B%3B&ref=srp&refId=0c2af832-8106-d0cb-7227-ecdfd134cd24&s=Car&sb=rel&vc=Car",
+        "response": {
+            "headers": {
+                "Date": "Thu, 21 Sep 2023 11:48:00 GMT",
+                "Content-Type": "application\/json; charset=utf-8",
+                "Content-Length": "5463",
+                "Spb-Cache-Control": "no-cache, no-store, must-revalidate",
+                "Spb-Content-Length": "1710",
+                "Spb-Content-Type": "text\/html",
+                "Spb-Date": "Thu, 21 Sep 2023 11:48:00 GMT",
+                "Spb-Expires": "0",
+                "Spb-Set-Cookie": "_abck=9AA9DC7C5C7ECD0710FCF1E859EA94F1~-1~YAAQZx1BF3qrS62KAQAAu32RtwpuTQIjKgIShLWzCykTnfKzt9AHIrGhTOCoZlT4E3BjtIxWZXQoyj8\/Mljfb8o9hDNTNswL8LcBjY8kKGkSUA+REhrvX4sdQV2+cmzCGeNAAiSCuAkB5sWtKvCOZHLsvRh4PqWGhDEkGpr1Gs+uma1TKWXNYsFCUL0XhMV24zAhCd+m0a6AQgRfJCKHx6tccZaolzYDI98b2sOyD1y1Vj+Wm7qWBeFZELtOBQbxIid8arO6hOyOiOnUJpo+NKysFLJAMqeH6h\/UxB6LtFA5B\/V3mJJ7Qh68LSKK0+zeuXk9bEQseABvKR9L21jQ0huYctA9LdHJ0ATtqfENjI0SYY26MX+X4sYMjA==~-1~-1~-1; Domain=.mobile.de; Path=\/; Expires=Fri, 20 Sep 2024 11:48:00 GMT; Max-Age=31536000; SameSite=None; Secure\/,\/ak_bmsc=4D124D7877186F64FDE529EF99A1F614~000000000000000000000000000000~YAAQZx1BF3urS62KAQAAu32RtxU3c8PggnBwAWQn7D60lKkB9lJ63UxFi3F6Zj0AXG7Ywu4GTiH\/5mPkvuCahbVj9e2l3IanUsqfZhppXpOSU1aQGgSW8nGdt32ID97b63flKQ0V\/8x8WEPPl9FOEfaWTS3eKPLP9ATgOArVQTK5l0GklQwtjaqXk0GACn\/vr48XPJPxVeBjOvp0Xd2+1CbaOCfBP4MnT4N6F57SDUxpPYYwNkoWrL0mSn\/kfVQnfbAMFpdMRsI\/L4aCDrHmIi58\/x2a8qfougUKEXWWllYNppPUlseJzJ8k9gok9S0xiRVW4HmdR6Hm5nadu+pvfDZD0T+6sxFBi4NE0Y5yBtwmnC2f73dSP324Oj9b5xJCRChduoHZKNLYNAoj7Zc3aINHyDGJ0Gl8toIVhO1f0\/YYkJ88D8cU0kF7603eU+s=; Domain=.mobile.de; Path=\/; Expires=Thu, 21 Sep 2023 13:48:00 GMT; Max-Age=7200; SameSite=None; Secure\/,\/bm_sz=77200AFD5CFC7D1FB3BA0BD82B76A5A7~YAAQZx1BF3yrS62KAQAAu32RtxXlMpAHIWmQ8VPT\/1z\/lSkLeJ\/e2H15TjR\/Jp4sL7ezmsBJkh+mUF5pa5VTtS4v8zjgHBLQ7BndiaTkNIJVq05Ab0O+3fPdljDVzEBxwWgBWpwk5vKP0jmFdZu+Oq+JAuScCiKhiWas3Is0OGAeVgxt\/ObR6nsHHbzX+EicKumJiEaeOCJT34qYYOFckupmp3P4E7ecb7Z151THfM6TzstTVAd0Kb0+ZWJuhHznZUQpxW2bT39N8G2WR97hGnN4hvwIbOMR+0C5P1sneqGxRw==~3555632~4276533; Domain=.mobile.de; Path=\/; Expires=Thu, 21 Sep 2023 15:48:00 GMT; Max-Age=14400; SameSite=None; Secure",
+                "Spb-Vary": "Accept-Encoding",
+                "Spb-X-Bee-Original-Content-Encoding": "gzip",
+                "Spb-cost": "1",
+                "Spb-initial-status-code": "200",
+                "Spb-resolved-url": "https:\/\/suchen.mobile.de\/fahrzeuge\/search.html?dam=0&fr=2006%3A&ft=DIESEL&isSearchRequest=true&ms=3500%3B17%3B%3B%3B&ref=srp&refId=0c2af832-8106-d0cb-7227-ecdfd134cd24&s=Car&sb=rel&vc=Car",
+                "Access-Control-Allow-Origin": "*",
+                "Permissions-Policy": "browsing-topics=()",
+                "X-Frame-Options": "SAMEORIGIN",
+                "X-Content-Type-Options": "nosniff",
+                "Strict-Transport-Security": "max-age=31556926; includeSubDomains",
+                "Referrer-Policy": "strict-origin-when-cross-origin",
+                "Vary": "Cookie",
+                "Sozu-Id": "01HAVS2Y5CTK3M2THJXN057Y8X"
+            },
+            "body": {
+                "body": "\n\n<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n    <meta http-equiv=\"refresh\" content=\"5; URL='\/fahrzeuge\/search.html?dam=0&fr=2006%3A&ft=DIESEL&isSearchRequest=true&ms=3500%3B17%3B%3B%3B&ref=srp&refId=0c2af832-8106-d0cb-7227-ecdfd134cd24&s=Car&sb=rel&vc=Car&bm-verify=AAQAAAAI_____9cOCdSeWjz7cHyEz8g6yU_0oM8x5F7fgfr_iPcefn2MoKPweUkAAVx3-uUUU0qgEtKmV-puQDg7bSPzC6CjrAMjTYqR0BJF1Tq9AUv9xbodCptBlBqWLy-KDaE2xWiWnf5H4gxt61-Qt_JMDc2eFv-ikszYY3cE959H_BN4QSXp_exciahmn_pk2Ohgyn17W85PvQ0CJehqZ3ajB0QeTK3PDn5YnopQjFltTR_OxN9fXRDWL6z9u3QZJPKNzkRfGtfF1vVxqse3AgWX0cVr7rJI1HEuXrzJ9i3xmpSdwIdx_wfmQMLqH-xlCn4inJheRMO4baHMi_DgyGFFESNNvFu5AScFbahZJu7oox6BklOUQL-DvI6d4mYsZsDrpxr3di3afayYpiaGJAmvwdZaMd0_glLhMzhhgoG5YBBhLnep9tCYZVHp7yQpPtWpRHl3cbkTP1n89g3CI1dlI3m5mVRBMvz64HEv3Iu_zgB-m1iR6yuydDXQh5o2hUgSmA'\" \/>\n    <title>&nbsp;<\/title>\n    <script>\n        var i = 1695296880;\n        var j = i + Number(\"7592\" + \"31215\");\n    <\/script>\n  <\/head>\n    <noscript>\n      <iframe style=\"border: none; height: 100%; width: 100%;\" src=\"\"><\/iframe>\n    <\/noscript>\n    <script>\n          var xhr = new XMLHttpRequest();\n          xhr.withCredentials = true;\n          xhr.addEventListener(\"loadend\", function() {\n              try {\n                  var data = JSON.parse(xhr.responseText);\n                  if (data.hasOwnProperty('reload')) {\n                      if (data[\"reload\"] == true) {\n                        window.location.replace(window.location.href.replace(\/[&?]bm-verify=[^#]*\/, \"\"));\n                        if(window.location.hash){\n                          window.location.reload();\n                        }\n                      }\n                  } else if (data.hasOwnProperty('location')) {\n                      window.location.replace(data[\"location\"]);\n\n                  } else {\n                      window.location.reload();\n                  }\n              } catch (e) {\n                  var data = {}\n                  window.location.reload();\n              }\n          });\n          xhr.open(\"POST\", \"\/_sec\/verify?provider=interstitial\", false);\n          xhr.setRequestHeader(\"Content-Type\", \"application\/json\");\n          xhr.send(JSON.stringify({\n              \"bm-verify\": \"AAQAAAAI\/\/\/\/\/5EZEWjdqKcGobmz\/PWSlgBsQfFD5\/81Tc\/Hrq0ziKm1ZS991FxgqL4z4TSJxTiSdn2Ho7HPGWeq1\/hnl4m6efk+M0\/I0h4QW4Mo6yjk4e4NFW0GpTrzFYc\/Bpm+MoSdfXwBUbLsNkUxSL23pBgoljm7+7WiAYa0m7SMEcB5CQ3FgILJ+vuAVlvq3HXEDcLZOf243mq\/dSZ46HKjRfOuRBhLigy5sBVadPpvmMaAqqYkbu2gmwzuBpLoyNRII\/bZMGpQ2rql61hKxMOedPzrQSK9g3TQx41ISmKlY+xqc1GEBV2JlknUqExn4+dHt4Pb5k\/wpoWXeOIG41oAAdMemgEcPJXXOF8vO1eaREJpRQkzhd1GT9F89Bka6wKhzHPzjFIOE45rVwPts0MMbD3HhyPOxJA7Zos50BL51ziVT9sEAfr0vK3S2xGCR+5r3IGa8MWSI6mtyucFuFRlZQyYmf+thE9V4voUYwWgwJ3Nn3MT2WLL8Ua\/q4CnX0IevarPu9fjGWzs5nSmSZW142o=\",\n              \"pow\": j\n          }));\n    <\/script>\n  <\/body>\n<\/html>\n                                                            ",
+                "cookies": "",
+                "evaluate_results": [],
+                "js_scenario_report": [],
+                "headers": {
+                    "Cache-Control": "no-cache, no-store, must-revalidate",
+                    "Content-Length": "1710",
+                    "Content-Type": "text\/html",
+                    "Date": "Thu, 21 Sep 2023 11:48:00 GMT",
+                    "Expires": "0",
+                    "Set-Cookie": "_abck=9AA9DC7C5C7ECD0710FCF1E859EA94F1~-1~YAAQZx1BF3qrS62KAQAAu32RtwpuTQIjKgIShLWzCykTnfKzt9AHIrGhTOCoZlT4E3BjtIxWZXQoyj8\/Mljfb8o9hDNTNswL8LcBjY8kKGkSUA+REhrvX4sdQV2+cmzCGeNAAiSCuAkB5sWtKvCOZHLsvRh4PqWGhDEkGpr1Gs+uma1TKWXNYsFCUL0XhMV24zAhCd+m0a6AQgRfJCKHx6tccZaolzYDI98b2sOyD1y1Vj+Wm7qWBeFZELtOBQbxIid8arO6hOyOiOnUJpo+NKysFLJAMqeH6h\/UxB6LtFA5B\/V3mJJ7Qh68LSKK0+zeuXk9bEQseABvKR9L21jQ0huYctA9LdHJ0ATtqfENjI0SYY26MX+X4sYMjA==~-1~-1~-1; Domain=.mobile.de; Path=\/; Expires=Fri, 20 Sep 2024 11:48:00 GMT; Max-Age=31536000; SameSite=None; Secure\/,\/ak_bmsc=4D124D7877186F64FDE529EF99A1F614~000000000000000000000000000000~YAAQZx1BF3urS62KAQAAu32RtxU3c8PggnBwAWQn7D60lKkB9lJ63UxFi3F6Zj0AXG7Ywu4GTiH\/5mPkvuCahbVj9e2l3IanUsqfZhppXpOSU1aQGgSW8nGdt32ID97b63flKQ0V\/8x8WEPPl9FOEfaWTS3eKPLP9ATgOArVQTK5l0GklQwtjaqXk0GACn\/vr48XPJPxVeBjOvp0Xd2+1CbaOCfBP4MnT4N6F57SDUxpPYYwNkoWrL0mSn\/kfVQnfbAMFpdMRsI\/L4aCDrHmIi58\/x2a8qfougUKEXWWllYNppPUlseJzJ8k9gok9S0xiRVW4HmdR6Hm5nadu+pvfDZD0T+6sxFBi4NE0Y5yBtwmnC2f73dSP324Oj9b5xJCRChduoHZKNLYNAoj7Zc3aINHyDGJ0Gl8toIVhO1f0\/YYkJ88D8cU0kF7603eU+s=; Domain=.mobile.de; Path=\/; Expires=Thu, 21 Sep 2023 13:48:00 GMT; Max-Age=7200; SameSite=None; Secure\/,\/bm_sz=77200AFD5CFC7D1FB3BA0BD82B76A5A7~YAAQZx1BF3yrS62KAQAAu32RtxXlMpAHIWmQ8VPT\/1z\/lSkLeJ\/e2H15TjR\/Jp4sL7ezmsBJkh+mUF5pa5VTtS4v8zjgHBLQ7BndiaTkNIJVq05Ab0O+3fPdljDVzEBxwWgBWpwk5vKP0jmFdZu+Oq+JAuScCiKhiWas3Is0OGAeVgxt\/ObR6nsHHbzX+EicKumJiEaeOCJT34qYYOFckupmp3P4E7ecb7Z151THfM6TzstTVAd0Kb0+ZWJuhHznZUQpxW2bT39N8G2WR97hGnN4hvwIbOMR+0C5P1sneqGxRw==~3555632~4276533; Domain=.mobile.de; Path=\/; Expires=Thu, 21 Sep 2023 15:48:00 GMT; Max-Age=14400; SameSite=None; Secure",
+                    "Vary": "Accept-Encoding",
+                    "X-Bee-Original-Content-Encoding": "gzip"
+                },
+                "type": "html",
+                "iframes": [],
+                "xhr": [],
+                "cost": 1,
+                "initial-status-code": 200,
+                "resolved-url": "https:\/\/suchen.mobile.de\/fahrzeuge\/search.html?dam=0&fr=2006%3A&ft=DIESEL&isSearchRequest=true&ms=3500%3B17%3B%3B%3B&ref=srp&refId=0c2af832-8106-d0cb-7227-ecdfd134cd24&s=Car&sb=rel&vc=Car",
+                "metadata": {
+                    "microdata": [],
+                    "json-ld": [],
+                    "opengraph": [],
+                    "dublincore": [
+                        {
+                            "elements": [],
+                            "terms": [],
+                            "@context": []
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "exec_time": 1.4962079524993896
+}
